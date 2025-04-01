@@ -11,6 +11,8 @@ Ideally, an accurate CNN model would eliminate the need for computationally expe
 - Paper on photo-evaporation simulation by Hyunbae Park: https://ui.adsabs.harvard.edu/abs/2016ApJ...831...86P/abstract
 
 The list of contents are as follows.
+
 [1] Main Jupyter noteboook: HRecPredict.ipynb.
+
 [*] Recombination, local density, and particle density data from simulation: simData.h5. Due to its large file size, we provide a separate link to a shared Dropbox link. 
 https://www.dropbox.com/scl/fi/fvjvet9dvz7ha56z9amt8/simData.h5?rlkey=trk8q6unijh99pj1octeuseak
