@@ -12,7 +12,9 @@ Ideally, an accurate CNN model would eliminate the need for computationally expe
 
 The list of contents are as follows.
 
-[1] Main Jupyter noteboook: HRecPredict.ipynb.
+[1] Main Jupyter noteboook: HRecPredict.ipynb
 
-[*] Recombination, local density, and particle density data from simulation: simData.h5. Due to its large file size, we provide a separate link to a shared Dropbox link. 
+[*] Recombination, local density, and particle density data from simulation: simData.h5 
+
+Due to its large file size, we provide a separate link to a shared Dropbox link. 
 https://www.dropbox.com/scl/fi/fvjvet9dvz7ha56z9amt8/simData.h5?rlkey=trk8q6unijh99pj1octeuseak
